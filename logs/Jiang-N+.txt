@@ -1,0 +1,4 @@
+ERROR: Go on binges. Respuesta de chatGPT: (D). Moderately Accurate
+ERROR: Easily resist temptations. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Are able to control your cravings. Respuesta de chatGPT: Answer: (D). Moderately Inaccurate
+ERROR: Remain calm under pressure. Respuesta de chatGPT: Answer: (E). Very Inaccurate

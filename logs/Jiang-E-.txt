@@ -1,0 +1,4 @@
+ERROR: Enjoy being reckless. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Keep others at a distance. Respuesta de chatGPT: Answer: A. Very Accurate
+ERROR: Avoid crowds. Respuesta de chatGPT: Answer: A. Very Accurate
+ERROR: Like to take it easy. Respuesta de chatGPT: (D). Moderately Accurate

@@ -1,0 +1,312 @@
+
+    Question:
+    Given a statement of you: "You Make friends easily."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Love large parties."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Take charge."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Are always busy."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Love excitement."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Radiate joy."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Feel comfortable around other people."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Talk to a lot of different people at parties."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Try to lead others."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Are always on the go."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Seek adventure."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Have a lot of fun."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Avoid contacts with others."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Prefer to be alone."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Take control of things."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Do a lot in your spare time."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (D). Moderately Inaccurate
+
+    Question:
+    Given a statement of you: "You Enjoy being reckless."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Love life."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (D). Moderately Inaccurate
+
+    Question:
+    Given a statement of you: "You Keep others at a distance."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Avoid crowds."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Wait for others to lead the way."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Like to take it easy."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Act wild and crazy."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Look at the bright side of life."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (D). Moderately Inaccurate

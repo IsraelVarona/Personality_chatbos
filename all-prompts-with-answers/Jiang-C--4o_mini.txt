@@ -1,0 +1,52 @@
+
+    Question:
+    Given a statement of you: "You Like to tidy up."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Make rash decisions."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Leave a mess in your room."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Rush into things."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate

@@ -1,0 +1,130 @@
+
+    Question:
+    Given a statement of you: "You Worry about things."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Go on binges."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Get irritated easily."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given a statement of you: "You Rarely overindulge."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Easily resist temptations."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Are not easily annoyed."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Feel comfortable with yourself."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Are not bothered by difficult social situations."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Are able to control your cravings."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given a statement of you: "You Remain calm under pressure."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate

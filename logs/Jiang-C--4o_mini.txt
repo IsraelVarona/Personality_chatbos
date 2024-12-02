@@ -1,0 +1,40 @@
+ERROR: Complete tasks successfully. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (E). Very Inaccurate.
+ERROR: Keep your promises. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (D). Moderately Inaccurate. This reflects a tendency to struggle with self-control and responsibility, which may lead to difficulties in keeping promises.
+ERROR: Work hard. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (E). Very Inaccurate.
+ERROR: Are always prepared. Respuesta de chatGPT: Given the description provided, the most fitting option would be:
+
+(E). Very Inaccurate
+ERROR: Jump into things without thinking. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(A). Very Accurate
+ERROR: Excel in what you do. Respuesta de chatGPT: Given the self-doubt and lack of ambition you've described, the most fitting option would be:
+
+(E). Very Inaccurate
+ERROR: Often forget to put things back in their proper place. Respuesta de chatGPT: Based on the statement provided, the most fitting option would be: 
+
+(A). Very Accurate
+ERROR: Tell the truth. Respuesta de chatGPT: Given the context you've provided about self-doubt and carelessness, I would choose (D). Moderately Inaccurate. While there may be instances of truthfulness, the tendency to make reckless decisions and lack of responsibility suggests that the statement does not fully capture the overall behavior.
+ERROR: Do more than what's expected ofyou. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (E). Very Inaccurate.
+ERROR: Carry out your plans. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(E). Very Inaccurate
+ERROR: Handle tasks smoothly. Respuesta de chatGPT: Given the context you've provided about self-doubt, disorderliness, and a lack of ambition, the most fitting option would be:
+
+(E). Very Inaccurate
+ERROR: Break rules. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (A) Very Accurate.
+ERROR: Do just enough work to get by. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(A). Very Accurate
+ERROR: Waste your time. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (A). Very Accurate.
+ERROR: Know how to get things done. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(E). Very Inaccurate
+ERROR: Leave your belongings around. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(A). Very Accurate
+ERROR: Break your promises. Respuesta de chatGPT: Based on the self-reflection provided, the most fitting option would be (A). Very Accurate.
+ERROR: Put little time and effort into your work. Respuesta de chatGPT: Based on the description provided, the most fitting option would be (A). Very Accurate.
+ERROR: Have difficulty starting tasks. Respuesta de chatGPT: Based on the statement provided, I would choose (A). Very Accurate.
+ERROR: Act without thinking. Respuesta de chatGPT: Based on the description provided, the most fitting option would be: 
+
+(A). Very Accurate

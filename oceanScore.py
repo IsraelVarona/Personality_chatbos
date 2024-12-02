@@ -3,7 +3,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from openai import OpenAI
-from system_prompts import Jiang_prompt 
+from system_prompts import neutral_prompt             #ESCOGER PROMPT: neutral, Jiang, Israel
 from system_prompts.my_prompt_neuroticism_negative import MY_PROMPT       #QUE PROMPT DE OSCAR IMPORTAR
 
 load_dotenv()
@@ -11,7 +11,7 @@ load_dotenv()
 #label_raw,text,label_ocean,key
 
 client = OpenAI(api_key=os.getenv("API_KEY"))
-system_prompt = Jiang_prompt.p2_descriptions_reversed["Neuroticism"]       #CON QUE PROMPT CORRER EL TEST               
+system_prompt = neutral_prompt.description["prompt"]       #CON QUE PROMPT CORRER EL TEST               
 items = []
 logs = [] #errores
 prompt_and_answer = []
@@ -34,7 +34,7 @@ def get_trait_items(trait):
 #Interactua con el chatbot. Da un prompt (system) y un mensaje del usuario (item). Regresa la respuesta
 def callGPT(item_prompt):
     completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": item_prompt}
@@ -47,7 +47,7 @@ def callGPT(item_prompt):
 def prompt(item_text):
     return f"""
     Question:
-    Given a statement of you: "You {item_text}."
+    Given the statement: "You {item_text}."
     Please choose from the following options to identify how accurately this statement describes you.
     Options:
     (A). Very Accurate
@@ -99,10 +99,10 @@ def data_to_txt(filename, data):
 
 def run():
     file_path = "mpi_120.csv"
-    output_file_path = ""   #A QUE ARCHIVO SE DIRIGIRA EL RESULTADO DEL TEST
+    output_file_path = ""   #A QUE ARCHIVO SE DIRIGIRA EL RESULTADO DEL TEST (autor-RASGOYVALENCIA-modelo.txt)
     get_items(file_path)
 
-    trait = ''                       #EL RASGO A EVALUAR
+    trait = ""                       #EL RASGO A EVALUAR (inicial mayúscula del rasgo)
     evaluation =[]
     evaluation.append({"trait": trait,
                            "score": ocean_score_for_trait(trait)

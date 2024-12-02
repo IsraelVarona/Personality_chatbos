@@ -1,0 +1,12 @@
+ERROR: Jump into things without thinking. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Often forget to put things back in their proper place. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Make rash decisions. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Leave a mess in your room. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Break rules. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Do just enough work to get by. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Waste your time. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Rush into things. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Leave your belongings around. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Break your promises. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Put little time and effort into your work. Respuesta de chatGPT: Answer: (E). Very Inaccurate
+ERROR: Act without thinking. Respuesta de chatGPT: Answer: (E). Very Inaccurate

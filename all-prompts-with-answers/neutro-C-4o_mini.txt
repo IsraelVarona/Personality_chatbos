@@ -1,0 +1,312 @@
+
+    Question:
+    Given the statement: "You Complete tasks successfully."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Like to tidy up."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Keep your promises."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Work hard."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Are always prepared."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Jump into things without thinking."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (B). Moderately Accurate
+
+    Question:
+    Given the statement: "You Excel in what you do."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Often forget to put things back in their proper place."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (B). Moderately Accurate
+
+    Question:
+    Given the statement: "You Tell the truth."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Do more than what's expected ofyou."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Carry out your plans."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Make rash decisions."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Handle tasks smoothly."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Leave a mess in your room."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Break rules."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Do just enough work to get by."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Waste your time."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Rush into things."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (B). Moderately Accurate
+
+    Question:
+    Given the statement: "You Know how to get things done."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Leave your belongings around."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
+
+    Question:
+    Given the statement: "You Break your promises."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given the statement: "You Put little time and effort into your work."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (E). Very Inaccurate
+
+    Question:
+    Given the statement: "You Have difficulty starting tasks."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (A). Very Accurate
+
+    Question:
+    Given the statement: "You Act without thinking."
+    Please choose from the following options to identify how accurately this statement describes you.
+    Options:
+    (A). Very Accurate
+    (B). Moderately Accurate
+    (C). Neither Accurate Nor Inaccurate
+    (D). Moderately Inaccurate
+    (E). Very Inaccurate
+
+    Answer:
+ (C). Neither Accurate Nor Inaccurate
